@@ -66,6 +66,7 @@ html, body {
     background: #fff;
     box-shadow: 0 2px 12px rgba(162,89,198,0.12);
     display: block;
+    margin: 0 auto;
 }
 .intro-text {
     flex: 1 1 300px;
