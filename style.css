@@ -92,7 +92,7 @@ html, body {
     }
     .intro-image img {
         width: 110px;
-        height: auto;
+        height: 110px;
     }
 }
 .intro-photo {
